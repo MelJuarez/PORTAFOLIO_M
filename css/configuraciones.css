@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+}
+section{
+    width: 1366px;
+}
+:root{
+    --color1: rgba(255,113,117,1.0);
+    --color2: rgb(23, 26, 32);
+    --color3: rgb(255, 247, 174);
+    --color4: rgb(149, 219, 236);
+    --color5: rgb(245, 190, 195);
+ }
